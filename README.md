@@ -15,7 +15,8 @@ Before transitioning into tech, I spent **12 years in television documentary pro
 - **Version Control:** Git & GitHub  
 
 ### 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kyle-noad-09771282/)
+🔗 [LinkedIn: Kyle Noad](https://www.linkedin.com/in/kyle-noad-09771282/)
+
 
 ### Languages and Tools:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> **JavaScript**  
