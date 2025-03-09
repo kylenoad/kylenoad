@@ -1,7 +1,7 @@
 I'm a **former television documentary producer** transitioning into a career as a **Junior Software Developer**.
 
 ### 👨‍💻 My Journey into Tech  
-I began self-teaching **JavaScript** before completing structured training at **Northcoders**, where I honed my skills in **JavaScript, React, Node.js, PostgreSQL, Jest and Express**. Through hands-on projects, I've developed **full-stack applications**, collaborated in agile teams, and gained experience working with APIs, databases, and front-end frameworks.  
+I began self-teaching **JavaScript** before completing structured training at **Northcoders**, where I developed my skills in **JavaScript, React, Node.js, PostgreSQL, Jest and Express**. Through hands-on projects, I've developed **full-stack applications**, collaborated in agile teams, and gained experience working with APIs, databases, and front-end frameworks.  
 
 ### 🎬 My Background  
 Before transitioning into tech, I spent **12 years in television documentary production**, specializing in **science, engineering, and history**. I’ve written, produced, and directed for **BBC, National Geographic, Channel 4, and Discovery**
