@@ -7,7 +7,7 @@ I began self-teaching **JavaScript** before completing structured training at **
 Before transitioning into tech, I spent **12 years in television documentary production**, specializing in **science, engineering, and history**. I’ve written, produced, and directed for **BBC, National Geographic, Channel 4, and Discovery**
 
 ###  Technologies I Work With  
-- **Languages:** JavaScript, Python (ES6+), SQL  
+- **Languages:** JavaScript, Python, SQL  
 - **Front-end:** React, Next.js
 - **Back-end:** Node.js, Express, Flask
 - **Databases:** PostgreSQL  
