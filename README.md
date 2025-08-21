@@ -32,3 +32,7 @@ Before transitioning into tech, I spent **12 years in television documentary pro
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> Flask <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> Express <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/> Jest
+
+### Top Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylenoad&layout=compact&theme=tokyonight)
