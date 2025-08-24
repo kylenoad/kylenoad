@@ -1,4 +1,4 @@
-I'm a **former television documentary Producer and Director** transitioning into a career as a **Junior Software Developer**.
+I'm a former television documentary Producer and Director transitioning into a career as a **Junior Software Developer**.
 
 ###  My Journey into Tech  
 I began self-teaching **JavaScript** before completing structured training at **Northcoders**, where I developed my skills in **JavaScript, React, Node.js, PostgreSQL, Jest and Express**. Through hands-on projects, I've developed **full-stack applications** and gained experience working with APIs, databases, and front-end frameworks.  
